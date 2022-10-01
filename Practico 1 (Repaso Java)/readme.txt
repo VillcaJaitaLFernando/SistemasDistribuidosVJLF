@@ -1,4 +1,0 @@
-REPASO JAVA
-1.- calcular el fibonacci de un numero
-2.- realizar el CRUD (create, read, update, delete) de alumnos utilizando listas. La clase Alumnos (nombre, apelidos, CI, CU, Materias[] (nombre, sigla, docente(Tipo docente))), la clase Docente(Nombre, Apellidos, Ci). Utilizar ArrayList
-3.- Lo mismo del Ejercicio 2 pero en MySQL 
